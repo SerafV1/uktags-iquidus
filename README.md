@@ -57,7 +57,7 @@ Create user with read/write access:
 
 ### Get the source
 
-    git clone https://github.com/iquidus/explorer explorer
+    git clone https://github.com/SerafV1/uktags-iquidus explorer
 
 ### Install node modules
 
